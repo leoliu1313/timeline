@@ -22,9 +22,11 @@ Here are some sample stories:
   * [ ] When adding a new story, user can specify the name, description and people they choose to share their stories with
   * [ ] User has the option to import photos from their phone
 * [ ] User can add a new moment
-  * [ ] When adding a new moment, user can specify the date, description and add photos either by importing or taking a picture
+  * [ ] When adding a new moment, user can specify the date, description and
+  * [ ] User can import photos or take new pictures
 * [ ] User can click on any story from their timeline
   * [ ] When clicking on a story, user can view all of the moments that were shared for that story
+  * [ ] User can see a timeline of all the moments that were shared in that story
   * [ ] User can click on a moment to be taken to a detailed view of that moment
 
 ## Stretched Goals
